@@ -1,5 +1,5 @@
 # websocket-client
-A simple client which sends HTTP/1.1 GET requests given a hostname/IPv4 address and port and then prints the responses (if more than one, chunked) on screen. Implemented using websocket.h library from C/Unix.
+A simple client which sends HTTP/1.1 GET requests given a hostname/IPv4 address and port and then prints the responses (if more than one, chunked) on screen as well as server data (name, aliases, IPv4 addresses and IPv6 addresses). Implemented using websocket.h library from C/Unix.
 
 Usage: 
  - Using hostname: ``` ./client.o -hostname www.example.com -port 80 ```
