@@ -11,7 +11,7 @@ The last example sends a GET request to www.yahoo.com.
 
 In both examples the default port for internet traffic is utilized (PORT 80).
 
-Example of a server response (www.example.com:80):
+Example of output (www.example.com:80):
 
 ```
 Method: -hostname
