@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
         }
     }
     else {
-        printf("Error - invalid parameter\n");
+        printf("Error - invalid method\nValid methods are:\n-ipaddr\n-hostname\n");
     }
     return 0;
 }
